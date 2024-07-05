@@ -1,3 +1,5 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+# MI APRENDIZAJE
+Con esta práctica, he mejorado mi comprensión de Docker y Docker Compose al configurar y utilizar
+Docker Desktop para gestionar contenedores. Aprendí a definir servicios como SonarQube y
+PostgreSQL en un archivo `compose.yaml`, asegurando la comunicación entre contenedores y la
+persistencia de datos mediante redes y volúmenes. 
